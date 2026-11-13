@@ -1,0 +1,15 @@
+FUTURO DA AMAZÔNIA — ARQUIVOS DO SITE
+
+Estrutura:
+- index.html
+- assets/fotografia-principal.jpg
+
+PUBLICAÇÃO NO GITHUB PAGES:
+1. Extraia o ZIP.
+2. Envie index.html e a pasta assets para a raiz do repositório ths5608/futuro-da-amazonia.
+3. Substitua o index.html antigo e mantenha a pasta assets.
+4. Faça Commit changes.
+5. O endereço permanece https://ths5608.github.io/futuro-da-amazonia-3D/
+
+A fotografia principal está incorporada no próprio HTML e também disponível em assets/fotografia-principal.jpg.
+As fotografias complementares são carregadas do Wikimedia Commons; precisam de conexão com a internet. Os créditos e as licenças estão identificados no rodapé do site.
